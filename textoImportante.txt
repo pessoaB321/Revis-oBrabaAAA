@@ -1,0 +1,12 @@
+Só para lembrar
+
+01 No terminal
+
+npm init -y
+
+isso aqui faz o download dos arquivos npm 
+(package.jsone e bla bla bla)
+
+npm install express express-handlebars sequelize sqlite3
+
+isso instala o express, handlebars, sequelize e sqlite3
